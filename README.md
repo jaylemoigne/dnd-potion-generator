@@ -14,7 +14,7 @@ This generator pulls from a collection of CSV files that contain potion-related 
 
 ## 🧪 Potion Examples
 
-# Disclaimer | Potions generated might not always make sense, some effects can contradict other attributes etc.
+## Disclaimer | Potions generated might not always make sense, some effects can contradict other attributes etc.
 
 The Fantasy Potion Generator produces a wide variety of potions, each with unique attributes, effects, and lore. Here are a few examples of what the generator can create:
 
