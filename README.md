@@ -33,6 +33,7 @@ The Fantasy Potion Generator produces a wide variety of potions, each with uniqu
     - Curability (if applicable): Expert Level (Second Hardest)
 
 - **Vial**:
+  - Title: Vial
   - Effect: Riddle me gone. Gives the user the cure to a single riddle.
   - Strength: Temporary but strong and wears off quickly.
   - Side Effect: Curses.
