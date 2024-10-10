@@ -1,0 +1,5 @@
+Novice Level (Easiest)
+Apprentice Level (Second Easiest)
+Adept Level (Moderate)
+Expert Level (Second Hardest)
+Master Level (Hardest)
