@@ -18,20 +18,33 @@ This generator pulls from a collection of CSV files that contain potion-related 
 
 The Fantasy Potion Generator produces a wide variety of potions, each with unique attributes, effects, and lore. Here are a few examples of what the generator can create:
 
-- **Potion of Firebreathing**:
-  - Ingredients: Dragon Scales, Inferno Blossoms
-  - Effect: Grants the user the ability to breathe fire for 1d4 rounds, dealing 2d6 fire damage in a 15-foot cone.
-  - Rarity: Rare
+- **Potion**:
+    - Title: Potion
+    - Effect: Ghostly Form. Makes the user intangible and able to phase through objects.
+    - Strength: A poison. Almost no positive affect all side effect.
+    - Side Effect: Fear of something.
+    - Container: A glass syringe.
+    - Colour: Dark Grey.
+    - Appearance: Leaves and flowers in it.
+    - Texture: Thin and watery.
+    - Taste: Indescribable but horrid.
+    - Label: Its description in ornate elvish.
+    - Duration: 1 minute
+    - Curability (if applicable): Expert Level (Second Hardest)
 
-- **Elixir of the Moonlight Veil**:
-  - Ingredients: Moonpetal Flower, Stardust Powder
-  - Effect: Turns the drinker invisible under moonlight for 1 hour.
-  - Rarity: Uncommon
+- **Vial**:
+  - Effect: Riddle me gone. Gives the user the cure to a single riddle.
+  - Strength: Temporary but strong and wears off quickly.
+  - Side Effect: Curses.
+  - Container: A small shot sized bottle.
+  - Colour: Metallic.
+  - Appearance: Blood within it.
+  - Texture: Thick and sludgy.
+  - Taste: Of chemicals.
+  - Label: A healing symbol.
+  - Duration: 30 minutes
+  - Curability (if applicable): Expert Level (Second Hardest)
 
-- **Berserker's Brew**:
-  - Ingredients: Ogre's Blood, Blackthorn Root
-  - Effect: Grants a +2 to Strength for 1d4+1 hours, but imposes disadvantage on all Intelligence saving throws during that time.
-  - Rarity: Common
 
 ## 📄 How to Use in D&D Campaigns
 
