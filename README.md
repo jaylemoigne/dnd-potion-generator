@@ -4,7 +4,7 @@
 
 ## 📜 Project Overview
 
-This generator pulls from a collection of CSV files that contain potion-related data (such as ingredients, effects, and magical properties). The data is parsed into arrays stored within an `ArrayList`, allowing the creation of randomized potions with each generation. These potions can be directly used in real campaigns and have tangible, applicable effects in D&D adventures.
+This generator pulls from a collection of CSV files that contain potion-related data (such as ingredients, effects, and magical properties). The data is parsed into arrays stored within an ArrayList, allowing the creation of randomized potions with each generation. These potions can be directly used in real campaigns and have tangible, applicable effects in D&D adventures.
 
 ### Key Features:
 - **Random Potion Generation**: Potions are dynamically generated each time, offering a vast variety of magical brews for your campaign.
@@ -59,6 +59,6 @@ These potions are designed to be game-ready for D&D campaigns. Once a potion is 
 
 You can easily modify the potion generator by editing or adding new CSV files:
 
-1. **Add new ingredients**: Open the `ingredients.csv` file and add new rows with ingredient names and descriptions.
-2. **Expand effects**: Modify the `effects.csv` to create new potion effects that suit your campaign's needs.
-3. **Change rarity**: Adjust the `rarity.csv` to define the chances of generating common, uncommon, rare, or legendary potions.
+1. **Modify the effects**: Open the `effects.txt` file and add new rows with effects and descriptions.
+2. **Expand the Strengths**: Modify the `strength.txt` to create new potion strengths that suit your campaign's needs.
+3. **Change curability**: Adjust the `curability.txt` to define the chances of curing the effects of the potions.
